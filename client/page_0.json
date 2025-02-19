@@ -1,0 +1,253 @@
+{
+  "totalItems": 265222,
+  "totalPages": 265222,
+  "items": [
+    {
+      "clientId": "bff8d637-f804-41aa-a65e-99a218d2a96b",
+      "organizationId": "aa6ee583-7e04-408b-a2fa-705950ab57fe",
+      "firstName": "Kathian",
+      "lastName": "Varela",
+      "dateOfBirth": "07/08/1993",
+      "gender": "Female",
+      "email": null,
+      "phoneMobile": null,
+      "address": null,
+      "city": null,
+      "state": null,
+      "zip": null,
+      "tobaccoUseage": {
+        "tobacco": "Never",
+        "lastUse": null,
+        "cigarettes": false,
+        "cigars": false,
+        "chewing": false,
+        "vaping": false,
+        "eCigarettes": false,
+        "gumpatch": false,
+        "cigarNumber": null
+      },
+      "marijuanaUseage": {
+        "marijuana": "Never",
+        "marijuanaLastUse": null,
+        "marijuanaFrequency": null,
+        "marijuanaType": {
+          "smoked": false,
+          "vaping": false,
+          "oils": false,
+          "ingestedEdibles": false,
+          "synthetic": false
+        }
+      },
+      "alcoholAbuse": {
+        "abuse": false,
+        "when": null,
+        "treatment": null,
+        "currentOrPast": null,
+        "painMedsRx": null
+      },
+      "drugAbuse": {
+        "abuse": false,
+        "status": null,
+        "lastUse": null,
+        "treatment": null,
+        "currentOrPast": null,
+        "painMedsRx": null
+      },
+      "drivingConviction": {
+        "dui": false,
+        "duiMonth": null,
+        "suspension": false,
+        "suspensionHowLong": null,
+        "violations": false,
+        "violationsQuantity": null,
+        "duiChargedWhen": null
+      },
+      "healthConditions": {
+        "height": {
+          "feet": 5,
+          "inches": 9
+        },
+        "weight": 260,
+        "diabetes": {
+          "hasDiabetes": null,
+          "diabetesType": null,
+          "ageOfDiagnosisType1": null,
+          "ageOfDiagnosisType2": null,
+          "medication": null,
+          "a1c": null,
+          "insulinLast2Years": null,
+          "insulinBefore50": null,
+          "complications": {
+            "amputation": null,
+            "insulinShock": null,
+            "diabeticComa": null,
+            "neuropathy": null,
+            "retinopathy": null,
+            "nephropathy": null
+          }
+        },
+        "sleepApnea": {
+          "hasSleepApnea": null,
+          "treatment": null
+        },
+        "depression": {
+          "hasDepression": null,
+          "howLong": null,
+          "medication": null,
+          "hospitalFrequency": null
+        },
+        "bipolar": {
+          "hasBipolar": null,
+          "diagnosis": null,
+          "admitTimes": null,
+          "lastHospitalization": null
+        },
+        "hyperTension": {
+          "hasHyperTension": null,
+          "lastReadingSystolic": null,
+          "lastReadingDiastolic": null,
+          "medication": null
+        },
+        "asthma": {
+          "hasAsthma": null,
+          "attack": null,
+          "symptoms": null,
+          "lastHospitalization": null,
+          "condition": null
+        },
+        "anxiety": {
+          "hasAnxiety": null,
+          "severity": null,
+          "medication": null,
+          "hospitalFrequency": null,
+          "lastHospitalization": null
+        },
+        "cholesterol": {
+          "hasCholesterolIssue": null,
+          "reading": null,
+          "medication": null
+        },
+        "ptsd": {
+          "hasPtsd": false,
+          "hospitalFrequency": null,
+          "lastHospitalization": null,
+          "governmentBenefits": null,
+          "timeOff": null
+        },
+        "add": {
+          "hasAdd": false,
+          "hospitalFrequency": null,
+          "lastHospitalization": null,
+          "medication": null,
+          "treatment": null
+        },
+        "atrialFibrillation": {
+          "hasAtrialFibrillation": false,
+          "etoh": null,
+          "episode": null
+        },
+        "heartDisease": {
+          "hasHeartDisease": false,
+          "diagnosis": null,
+          "type": []
+        },
+        "cancer": {
+          "hasCancer": false,
+          "diagnosis": null,
+          "diagnosedMoreThanOnce": null,
+          "diagnosedMetastatic": null
+        },
+        "colitis": {
+          "chrons": false,
+          "chronsDiagnosis": null,
+          "chronsFrequency": null,
+          "chronsColon": null
+        },
+        "autoImmune": {
+          "hasAutoImmuneDisorder": false,
+          "type": [],
+          "functionality": null,
+          "diagnosis": null
+        },
+        "gerd": {
+          "hasGerd": false,
+          "medication": null
+        },
+        "familyHealthHistory": {
+          "siblings": {
+            "hasFamilyMember": false,
+            "number": null,
+            "heart": null,
+            "cerebro": null,
+            "cancer": null,
+            "diabetes": null
+          },
+          "parents": {
+            "hasFamilyMember": false,
+            "number": null,
+            "heart": null,
+            "cerebro": null,
+            "cancer": null,
+            "diabetes": null
+          }
+        },
+        "selfHarm": false,
+        "schizophrenia": {
+          "hasSchizophrenia": null,
+          "diagnosis": null
+        },
+        "transientIschemicAttack": {
+          "hasTransientIschemicAttack": null,
+          "diagnosis": null
+        },
+        "angioplastyOrStent": {
+          "hasAngioplastyOrStent": null,
+          "diagnosis": null
+        },
+        "heartAttack": {
+          "hasHeartAttack": null,
+          "diagnosis": null
+        },
+        "copd": {
+          "hasCopd": null,
+          "diagnosis": null
+        },
+        "emphysemaOrBlackLung": {
+          "hasEmphysemaOrBlackLung": null,
+          "diagnosis": null
+        },
+        "chronicBronchitis": {
+          "hasChronicBronchitis": null,
+          "diagnosis": null
+        },
+        "kidneyDisease": {
+          "hasKidneyDisease": null,
+          "diagnosis": null
+        },
+        "liverDisease": {
+          "hasLiverDisease": null,
+          "diagnosis": null
+        },
+        "hepatitis": {
+          "hasHepatitis": null,
+          "diagnosis": null
+        },
+        "hasCare": null,
+        "noHealthConditions": true
+      },
+      "criminalHistory": {
+        "hasCriminalHistory": false,
+        "hasFelony": null,
+        "felonyChargedWhen": null
+      },
+      "createdByUserId": "ed9f37ea-d0f7-4afe-88c0-ffbcb3e0bd25",
+      "updatedOn": "2025-02-19T21:03:23.4963702Z",
+      "createdOn": "2025-02-19T21:02:30.6801203Z",
+      "opportunities": []
+    }
+  ],
+  "page": 0,
+  "pageSize": 1,
+  "orderByProperty": "UpdatedOn",
+  "orderByDescending": true
+}

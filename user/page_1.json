@@ -1,0 +1,72 @@
+{
+  "totalItems": 16318,
+  "totalPages": 16318,
+  "items": [
+    {
+      "userId": "5915817b-fd1d-4177-99ce-e23df28e5534",
+      "organizationId": "aa6ee583-7e04-408b-a2fa-705950ab57fe",
+      "federatedUserId": "SFG0074225",
+      "firstName": "Rebecca",
+      "lastName": "Pavlik",
+      "email": "becca@pritchettagency.com",
+      "dateOfBirth": "10/17/1996 12:00:00 AM",
+      "address": "900 Lynbrook Street Southeast",
+      "city": "North Canton",
+      "state": "OH",
+      "zip": "44720",
+      "phone": "(440) 313-2121",
+      "stateLicenses": [
+        {
+          "licenseNumber": "3150903",
+          "stateCode": "TX"
+        },
+        {
+          "licenseNumber": "20870302",
+          "stateCode": "IL"
+        },
+        {
+          "licenseNumber": "1539400",
+          "stateCode": "OH"
+        },
+        {
+          "licenseNumber": "20870302",
+          "stateCode": "MI"
+        }
+      ],
+      "npn": "20870302",
+      "contractedCarriers": [
+        {
+          "carrierCode": "sbli",
+          "writingNumber": "81781"
+        },
+        {
+          "carrierCode": "american-amicable",
+          "writingNumber": "0001077326"
+        },
+        {
+          "carrierCode": "fidelity-and-guaranty",
+          "writingNumber": "000591677"
+        },
+        {
+          "carrierCode": "uhl",
+          "writingNumber": "L000222174"
+        },
+        {
+          "carrierCode": "occidental",
+          "writingNumber": "0000755384"
+        },
+        {
+          "carrierCode": "lga",
+          "writingNumber": "QUW8603"
+        }
+      ],
+      "lastLoginDate": "2025-02-19T21:02:45.3697977Z",
+      "updatedOn": "2025-02-19T21:02:45.3728686Z",
+      "createdOn": "2023-10-18T18:16:14.942191Z"
+    }
+  ],
+  "page": 1,
+  "pageSize": 1,
+  "orderByProperty": "UpdatedOn",
+  "orderByDescending": true
+}

@@ -1,0 +1,126 @@
+{
+  "totalItems": 57740,
+  "totalPages": 57740,
+  "items": [
+    {
+      "caseId": "841f0b1d-393a-4dc5-b5f2-edc17b4c0172",
+      "clientId": "2e4b9efd-f2d8-465f-834b-89341b84cd5e",
+      "organizationId": "aa6ee583-7e04-408b-a2fa-705950ab57fe",
+      "carrierCode": "lga",
+      "productCode": "lga-quility-term",
+      "caseStatusName": "Application In Progress",
+      "caseStatusHistory": [
+        {
+          "caseStatus": 0,
+          "caseStatusName": "Application Not Started",
+          "statusDate": "2025-02-19T20:59:46.3766148Z"
+        },
+        {
+          "caseStatus": 1,
+          "caseStatusName": "Application In Progress",
+          "statusDate": "2025-02-19T21:01:51.2915371Z"
+        }
+      ],
+      "agentUserId": "15f2d07a-e974-4871-a095-f90bfe4bf37a",
+      "agentFirstName": "Jake",
+      "agentLastName": "Henriksen",
+      "quoteRequestId": "45a95368-c37b-417a-842f-c3c1d0ad9e05",
+      "quoteRequestResultId": "362d7e5d-095b-42bf-83ef-b49a11281d12",
+      "insuredFirstName": "Ryan",
+      "insuredLastName": "Leboss",
+      "caseType": 2,
+      "caseTypeName": "Drop Ticket",
+      "carrierName": "LGA",
+      "productName": "Quility Term Plus",
+      "appliedFaceAmount": 400000,
+      "premiumMode": "M",
+      "appliedModalPremium": 69.03,
+      "appliedHealthClassCode": 0,
+      "appliedHealthClassName": "Preferred Plus Non-Tobacco",
+      "createdUserId": "15f2d07a-e974-4871-a095-f90bfe4bf37a",
+      "quotedStateCode": "CA",
+      "productType": 0,
+      "annualizedPremium": 828.36,
+      "updatedOn": "2025-02-19T21:01:59.0215677Z",
+      "createdOn": "2025-02-19T20:59:46.3766504Z",
+      "applicationSubmissionData": {
+        "primaryInsured": {
+          "primaryInsuredOutsideTravelPurpose": [],
+          "id": "739d2636-cfe9-4e1a-8457-14c3ab890480",
+          "firstName": "Ryan",
+          "lastName": "Leboss",
+          "fullName": "Ryan Leboss",
+          "address1": "320 Cantle Lane",
+          "city": "Encinitas",
+          "stateCode": "CA",
+          "zip": "92024",
+          "primaryPhone": "7275195566",
+          "email": "lebossboards@gmail.com",
+          "isUSCitizen": true,
+          "birthState": "WA",
+          "gender": "Male",
+          "birthDate": "1981-03-03T00:00:00",
+          "driverLicenseStateCode": "CA",
+          "internationalTravelCountries": [],
+          "militaryDuties": []
+        },
+        "agentSplitList": [
+          {
+            "isPrimaryAgent": true,
+            "carrierAppointmentNumber": "QUW7169",
+            "agentNPN": "21040932",
+            "splitPercentage": 100,
+            "isReadOnly": false,
+            "isAgentNPNDisabled": false,
+            "stateLicenseNumber": "4344076",
+            "usesCustomAgencyCode": false,
+            "id": "3643af17-7e1e-4ce0-b8ab-bcfa08a7b399",
+            "firstName": "Jake",
+            "lastName": "Henriksen",
+            "fullName": "Jake Henriksen",
+            "address1": "320 Cantle Lane",
+            "city": "Encinitas",
+            "stateCode": "CA",
+            "zip": "92024",
+            "primaryPhone": "(858) 248-0739",
+            "email": "jakehenriksen.sfg@gmail.com",
+            "internationalTravelCountries": [],
+            "militaryDuties": []
+          }
+        ],
+        "pendingApplications": [],
+        "existingInsurance": [],
+        "owner": {
+          "id": "0a1db81f-e53d-4a19-99b9-78ce31e65882",
+          "fullName": " ",
+          "internationalTravelCountries": [],
+          "militaryDuties": []
+        },
+        "contingentOwner": {
+          "id": "9cddd8f4-60f0-48b3-bf26-facae20aa574",
+          "fullName": " ",
+          "internationalTravelCountries": [],
+          "militaryDuties": []
+        },
+        "premiumPayer": {
+          "id": "4f3ca01c-7853-4372-a1a5-3c58f2a5473b",
+          "fullName": " ",
+          "internationalTravelCountries": [],
+          "militaryDuties": []
+        },
+        "newInsurance": {
+          "temporaryInsuranceAgreement": false,
+          "paymentFrequency": "Monthly-EFT"
+        },
+        "beneficiaries": [],
+        "contingentBeneficiaries": []
+      },
+      "furthestPageId": "Page 4 - Beneficiary Information",
+      "furthestPagePercentage": 60.0
+    }
+  ],
+  "page": 1,
+  "pageSize": 1,
+  "orderByProperty": "UpdatedOn",
+  "orderByDescending": true
+}
