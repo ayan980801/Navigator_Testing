@@ -266,7 +266,6 @@ class PartialSuccessException(Exception):
 
 async def main():
     os.makedirs(DATA_ROOT, exist_ok=True)
-    sync_time = SyncManager.now_utc_iso()
     sync_id = SyncManager.sync_id()
     last_sync = await SyncManager.load_last_sync_time()
     updated_after = last_sync
@@ -312,6 +311,12 @@ async def main():
             except Exception as e:
                 errors[ep], record_counts[ep], partial_success[ep] = str(e), 0, False
                 logging.error({"event": f"{ep}_fetch_failed", "error": str(e)})
+    # Generate a new sync timestamp after processing all endpoints
+    sync_time = (
+        datetime.datetime.now(datetime.timezone.utc)
+        - datetime.timedelta(minutes=1)
+    ).isoformat()
+
     summary = {
         "event": "sync_summary",
         "timestamp": sync_time,
